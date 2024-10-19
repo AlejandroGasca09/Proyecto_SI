@@ -1,18 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inicio</title>
-    <link rel="shortcut icon" href="media/logo_ico.jpg" type="image/x-icon">
-    <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="estilos.css">
-</head>
+<?php
+include "header.php"
+?>
 
 <body>
     <div class="parallax-container">
@@ -58,9 +46,7 @@
         <div class="parallax"><img src="media/201008-Gob2-des-FES-Aragon.jpg"></div>
     </div>
     </div>
-</body>
-<script>
-    M.AutoInit();
-</script>
 
-</html>
+<?php
+include "footer.php"
+?>
