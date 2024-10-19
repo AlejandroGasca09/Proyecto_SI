@@ -29,4 +29,6 @@
 <script>
   M.AutoInit();
 </script>
+
+<script src="inicio.js"></script>
 </html>

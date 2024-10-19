@@ -5,6 +5,14 @@
     background-color: coral;
 }
 
+footer {
+    margin-top: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
 .buttton{
 
     display: inline-block;
@@ -63,3 +71,12 @@
         width: calc(100% - 20px);
     }
 }
+
+.content {
+    display: none;
+}
+
+.content.active {
+    display: block;
+}
+
