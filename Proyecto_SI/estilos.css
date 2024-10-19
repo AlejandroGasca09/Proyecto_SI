@@ -39,3 +39,27 @@
     background: rgb(238,174,202);
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
+
+.center-collapsible {
+    text-align: justify;
+    margin: 0 auto;
+    width: calc(100% - 970px);
+}
+
+@media (max-width: 1199px) {
+    .center-collapsible {
+        width: calc(100% - 80px);
+    }
+}
+
+@media (max-width: 768px) {
+    .center-collapsible {
+        width: calc(100% - 40px);
+    }
+}
+
+@media (max-width: 480px) {
+    .center-collapsible {
+        width: calc(100% - 20px);
+    }
+}
