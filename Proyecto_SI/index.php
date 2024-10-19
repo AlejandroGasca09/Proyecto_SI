@@ -24,7 +24,7 @@ include"./header.php"
 
   </header>
   <div class="container">
-    <h1>OPCIONES DE TITULACION</h1>
+    <h1>OPCIONES DE TITULACIÓN</h1>
     <p>La FES Aragón ofrece diversas opciones de titulación que permiten a los estudiantes elegir la modalidad que mejor
       se adapte a sus necesidades y preferencias. Es importante consultar con la coordinación de cada carrera para
       conocer los requisitos específicos y detalles adicionales.</p>

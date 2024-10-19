@@ -21,7 +21,7 @@
       <div class="nav-wrapper">
         <img src="media/logos-unam-fes-aragon.png" alt="logo" width="130px">
         <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li><a href="inicio.html">Inicio</a></li>
+          <li><a href="inicio.php">Inicio</a></li>
           <li><a href="index.html">Nuestra Facultad</a></li>
           <li><a href="index.html">ICO</a></li>
         </ul>
