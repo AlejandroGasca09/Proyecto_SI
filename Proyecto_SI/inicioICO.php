@@ -1,5 +1,5 @@
 <?php
-include "header.php"
+include "./header.php"
 ?>
 
 <div class="container">
@@ -26,12 +26,12 @@ Esta Facultad, la cual será tu casa los próximos cuatro años y medio, se sien
 <br>
 
 <center>
-<div>   <a href="#" class="buttton"> Plan 1921</a>
+<div>   <a href="Plan2119.php" class="buttton"> Plan 2119</a>
         <a href="Plan1279.php" class="buttton"> Plan 1279</a>
         <a href="#" class="buttton"> Plan 0082</a>
 </div>
 </center>
 
 <?php
-include "footer.php"
+include "./footer.php"
 ?>

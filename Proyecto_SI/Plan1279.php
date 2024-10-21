@@ -62,8 +62,8 @@
     <li>
       <div class="collapsible-header"><i class="material-icons">filter_drama</i>Seminarios y Cursos de Actualización y Capacitación Profesional</div>
       <div class="collapsible-body"><span>Para aquellos egresados con promedio general en la 
-       licenciatura de 9.5 mínimo, habiendo aprobado todas las asignaturas en la primera 
-       inscripción y sin ningún recursamiento. </span></div>
+        licenciatura de 9.5 mínimo, habiendo aprobado todas las asignaturas en la primera 
+        inscripción y sin ningún recursamiento. </span></div>
     </li>
     <li>
       <div class="collapsible-header"><i ></i>Tesis</div>
@@ -72,7 +72,7 @@
       <div> <a href="pdfs/carecteristicas_tesis.pdf" class="buttton"> caractristicas</a>
             <a href="pdfs/listado-de-personas-tutoras_tesis.pdf" class="buttton"> Tutores</a>
       </div>
-       </div>
+        </div>
     </li>
 
 
@@ -257,6 +257,7 @@
 <center>
 <a href="./registro.php" type="button" class="buttton">Registrar modalidad</a>
 </center>
+<br>
 
         
 <?php
