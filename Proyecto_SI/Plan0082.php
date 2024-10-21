@@ -287,7 +287,9 @@
         <b>Lugar donde se tramita </b>
         <p>Con los requisitos completos, debes acudir de forma presencial, al Centro Integral de Servicios Estudiantiles (CISE) específicamente, a la oficina de Servicios Escolares (No se requiere cita).</p>
         <b>Ejemplo</b>
-        <p style="margin-left: 270px;"><img src="media/Ejemplo_Certificado.jpg" alt=""></p>
+        <center>
+        <p><img src="media/Ejemplo_Certificado.jpg" alt=""></p>
+        </center>
     </span></div>
     </li>
 
@@ -316,7 +318,9 @@
     <p>lugar donde se tramita</p>
     <p><a href="http://132.248.44.97/serviciosocial/ ">http://132.248.44.97/serviciosocial/ </a></p>
     <p>Ejemplo del documento</p>
-    <p style="margin-left: 200px;"><img src="media/Ejemplo-caso_1.jpg" alt=""></p>
+    <center>
+    <p><img src="media/Ejemplo-caso_1.jpg" alt="" style="max-width: 100%; height: auto;"></p>
+    </center>
     </div>
     </div>
 
@@ -332,9 +336,13 @@
     <p>lugar donde se tramita</p>
     <p><a href="http://132.248.44.97/serviciosocial/ "> http://132.248.44.97/serviciosocial/ </a></p>
     <p><b>Ejemplo de la carta de termino: </b></p>
-    <p style="margin-left: 200px;"><img src="media/Ejemplo-caso_2.jpg" alt=""></p>
+    <center>
+    <p><img src="media/Ejemplo-caso_2.jpg" alt="" style="max-width: 100%; height: auto;"></p>
+    </center>
     <p><b>Ejemplo de la constancia de liberación: </b></p>
-    <p style="margin-left: 200px;"><img src="media/Ejemplo-caso_2.1.jpg" alt=""></p>
+    <center>
+    <p><img src="media/Ejemplo-caso_2.1.jpg" alt="" style="max-width: 100%; height: auto;"></p>
+    </center>
     </div>
 </div>
 
@@ -351,9 +359,13 @@
     <p>lugar donde se tramita</p>
     <p><a href="https://www.aragon.unam.mx/fes-aragon/public_html/documents/cise/liberacion-de-servicio-social-por-articulo-91.pdf"> https://www.aragon.unam.mx/fes-aragon/public_html/documents/cise/liberacion-de-servicio-social-por-articulo-91.pdf</a></p>
     <p>Ejemplo del escrito de la solicitud de la liberación por Art. 91: </p>
-    <p style="margin-left: 200px;"><img src="media/Ejemplo-caso_3.jpg" alt=""></p>
+    <center>
+    <p><img src="media/Ejemplo-caso_3.jpg" alt="" style="max-width: 100%; height: auto;"></p>
+    </center>
     <p>Ejemplo de la constancia de liberación por Art. 91: </p>
-    <p style="margin-left: 200px;"><img src="media/Ejemplo-caso_3.1.jpg" alt=""></p>
+    <center>
+    <p><img src="media/Ejemplo-caso_3.1.jpg" alt="" style="max-width: 100%; height: auto;"></p>
+    </center>
     </div>
 </div>
 
@@ -377,7 +389,9 @@
         acudir al departamento de Revisión de Estudios en la DGAE para entregar la documentación que te soliciten. </p>
         <p>Si en el renglón 10 “Fecha de Autorización de Revisión de Estudios Documental” ya tiene una fecha, significa que la Revisión Documental ha sido liberada y tendrá las siguientes características: </p>
         <b>Ejemplo del documento</b>
-        <p style="margin-left: 270px;"><img src="media/Ejemplo-revision_estudios.jpg" alt=""></p>
+        <center>
+        <p><img src="media/Ejemplo-revision_estudios.jpg" alt=""></p>
+        </center>
         <b style="color: red">En caso de identificar que no ha iniciado tu revisión, tienes que acercarte a tu Jefatura de Carrera para que hagan la gestión necesaria e inicie tu Revisión de Estudios Documental.</b>
         </span></div>
     </li>

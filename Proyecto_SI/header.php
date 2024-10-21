@@ -20,6 +20,7 @@
     <nav class="barra orange lighten-1">
       <div class="nav-wrapper">
         <img src="media/logos-unam-fes-aragon.png" alt="logo" width="130px">
+        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
           <li><a href="index.php">Inicio</a></li>
           <li><a href="Planes.php">Nuestra Facultad</a></li>
@@ -27,3 +28,11 @@
         </ul>
       </div>
     </nav>
+
+    
+    <ul class="sidenav" id="mobile-demo" style="background-color: lightgray;">
+      <li><a href="index.php">Inicio</a></li>
+      <li><a href="Planes.php">Nuestra Facultad</a></li>
+      <li><a href="inicioICO.php">ICO</a></li>
+    </ul>
+  </header>
