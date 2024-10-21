@@ -1,63 +1,53 @@
+<title>Fes aragón</title>
 <?php
-include"./header.php"
+include "header.php"
 ?>
-    <ul id="slide-out" class="sidenav">
-      <li>
-        <div class="user-view">
-          <div class="background">
-            <img src="media/amiguito.png">
-          </div>
-          <a href="#user"><img class="circle" src="media/perfil.jpg"></a>
-          <a href="#name"><span class="white-text name">Pumamigo</span></a>
-          <a href="#email"><span class="white-text email">Pumamigo@gmail.com</span></a>
-        </div>
-      </li>
-      <li><a href="#!"><i class="material-icons">cloud</i>First Link With Icon</a></li>
-      <li><a href="#!">Second Link</a></li>
-      <li>
-        <div class="divider"></div>
-      </li>
-      <li><a class="subheader">Subheader</a></li>
-      <li><a class="waves-effect" href="#!">Third Link With Waves</a></li>
-    </ul>
-    <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
 
-  </header>
-  <div class="container">
-    <h1>OPCIONES DE TITULACION</h1>
-    <p>La FES Aragón ofrece diversas opciones de titulación que permiten a los estudiantes elegir la modalidad que mejor
-      se adapte a sus necesidades y preferencias. Es importante consultar con la coordinación de cada carrera para
-      conocer los requisitos específicos y detalles adicionales.</p>
-    <ul class="collapsible">
-      <li>
-        <div class="collapsible-header"><i class="material-icons">class</i>PLAN DE ESTUDIOS 0082</div>
-        <div class="collapsible-body"><span>El plan de estudios de la Licenciatura en Ingeniería en Computación
-            (clave 0082) de la Universidad Nacional Autónoma de México (UNAM) se inició en 1992. Este programa tiene una
-            duración de 10 semestres y requiere completar 386 créditos obligatorios y 32 créditos optativos.
-            El plan permite la reinscripción y sigue vigente.</span><a
-            href="plan1.html">Conoce los requisitos de titulacion</a></div>
-      </li>
-      <li>
-        <div class="collapsible-header"><i class="material-icons">class</i>PLAN DE ESTUDIOS 1979</div>
-        <div class="collapsible-body"><span>El plan de estudios de la Licenciatura en Ingeniería en Computación
-            (clave 1279) de la Universidad Nacional Autónoma de México (UNAM) se inició en 2008. Este programa tiene una
-            duración de 9 semestres y requiere completar 370 créditos obligatorios y 32 créditos optativos.
-            Los estudiantes deben cursar un máximo de 7 asignaturas por periodo y el plan permite la
-            reinscripción.</span><a
-            href="plan1.html">Conoce los requisitos de titulacion</a></div>
-      </li>
-      <li>
-        <div class="collapsible-header"><i class="material-icons">class</i>PLAN DE ESTUDIOS 2129</div>
-        <div class="collapsible-body"><span>El plan de estudios de la Licenciatura en Ingeniería en Computación
-            (clave 2119) de la Universidad Nacional Autónoma de México (UNAM) se inició en 2020. Este programa tiene una
-            duración de 9 semestres y requiere completar 348 créditos obligatorios y 48 créditos optativos.
-            Los estudiantes deben cursar un máximo de 7 asignaturas por periodo y el plan permite tanto el primer
-            ingreso como la reinscripción.</span><a
-            href="requisitos20.html">Conoce los requisitos de titulacion</a></div>
-      </li>
-    </ul>
-    <br>
-  </div>
+<body>
+    <div class="parallax-container">
+        <div class="parallax"><img src="media/201008-Gob2-des-FES-Aragon.jpg"></div>
+    </div>
+    <div class="section white">
+        <div class="row container">
+            <h2 class="header">FACULTAD DE ESTUDIOS SUPERIORES ARAGON</h2>
+            <p class="grey-text text-darken-3 lighten-3">La Facultad de Estudios Superiores (FES) Aragón es una
+                entidad académica multidisciplinaria de la Universidad Nacional Autónoma de México (UNAM), ubicada en la
+                zona norte del municipio de Nezahualcóyotl, Estado de México. Fundada hace poco más de cuarenta años,
+                la FES Aragón se ha convertido en un referente de desarrollo en la zona nororiente del Valle de México.
+
+                La facultad ofrece catorce licenciaturas acreditadas y diversos programas de posgrado en sistemas
+                escolarizados y abiertos. Además, la FES Aragón se enfoca en la formación complementaria de sus alumnos
+                mediante actividades extracurriculares, educación continua y programas que fomentan el desarrollo
+                psicosocial, el autocuidado, el respeto a los derechos humanos y la inclusión social.
+            </p>
+        </div>
+    </div>
+    <div class="parallax-container">
+        <div class="parallax"><img src="media/201008-Gob2-des-FES-Aragon.jpg"></div>
+    </div>
+    <div class="section white"></div>
+    <div class="row container">
+        <h2 class="header">CARRERAS DE LA FES ARAGON </h2>
+        <p class="grey-text text-darken-3 lighten-3">En la Facultad de Estudios Superiores Aragón,
+            se ofrecen diversas carreras que abarcan múltiples áreas del conocimiento. Estas carreras están diseñadas
+            para proporcionar una formación integral y especializada, combinando teoría y práctica para preparar a los
+            estudiantes para el mercado laboral y el desarrollo profesional.
+
+            Cada programa de estudios tiene una duración específica, generalmente de 8 a 10 semestres, y requiere la
+            realización de un número determinado de créditos obligatorios y optativos. Los planes de estudio están
+            estructurados para cubrir tanto los fundamentos básicos como las competencias avanzadas en cada disciplina.
+
+            Además, la FES Aragón promueve actividades extracurriculares, programas de educación continua y
+            oportunidades de intercambio académico para enriquecer la experiencia educativa de los estudiantes. Los
+            egresados de estas carreras suelen tener un perfil competitivo y están preparados para enfrentar los
+            desafíos de sus respectivas profesiones.
+        </p>
+    </div>
+    <div class="parallax-container">
+        <div class="parallax"><img src="media/201008-Gob2-des-FES-Aragon.jpg"></div>
+    </div>
+    </div>
+
 <?php
-include"./footer.php"
+include "footer.php"
 ?>
