@@ -11,8 +11,6 @@ footer {
     text-align: center;
 }
 
-
-
 .buttton{
 
     display: inline-block;
@@ -80,3 +78,43 @@ footer {
     display: block;
 }
 
+.form_body{
+    font-family: Arial,sans-serif;
+    background-color: #0d1117;
+    margin: auto;
+    padding: 0;
+}
+
+.forms{
+    position: relative;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 5px 20px rgba(237, 230, 230, 0.222);
+    border: 3px;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.boton_regreso{
+    display: inline-block;
+    margin-left: 81%;
+    margin-top: 5px;
+    background-color: gray;
+    padding: 5px 25px;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 100px;
+}
+
+.tinput{
+    color: white;
+}
+
+.minput{
+    color: black;
+}

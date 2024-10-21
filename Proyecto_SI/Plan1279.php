@@ -254,7 +254,9 @@
   </div>
   </center>
 
-
+<center>
+<a href="./registro.php" type="button" class="buttton">Registrar modalidad</a>
+</center>
 
         
 <?php
