@@ -178,7 +178,7 @@
     <p> Si se liberó el Servicio Social por Artículo 91, se tiene que subir, al Sistema de seguimiento del proceso de titulación universitaria, tanto el escrito de 
     la solicitud de la liberación como la Constancia de liberación de servicio social por artículo 91. Ambos documentos en un solo archivo PDF.</p>
     <p>lugar donde se tramita</p>
-    <p><a href="https://www.aragon.unam.mx/fesaragon/public_html/documents/cise/liberacion-de-servicio-social-porarticulo-91.pdf "> https://www.aragon.unam.mx/fesaragon/public_html/documents/cise/liberacion-de-servicio-social-porarticulo-91.pdf </a></p>
+    <p><a href="https://www.aragon.unam.mx/fes-aragon/public_html/documents/cise/liberacion-de-servicio-social-por-articulo-91.pdf"> https://www.aragon.unam.mx/fes-aragon/public_html/documents/cise/liberacion-de-servicio-social-por-articulo-91.pdf</a></p>
     <p>Ejemplo del escrito de la solicitud de la liberación por Art. 91: </p>
     <p style="margin-left: 200px;"><img src="media/Ejemplo-caso_3.jpg" alt=""></p>
     <p>Ejemplo de la constancia de liberación por Art. 91: </p>

@@ -28,7 +28,7 @@ Esta Facultad, la cual será tu casa los próximos cuatro años y medio, se sien
 <center>
 <div>   <a href="Plan2119.php" class="buttton"> Plan 2119</a>
         <a href="Plan1279.php" class="buttton"> Plan 1279</a>
-        <a href="#" class="buttton"> Plan 0082</a>
+        <a href="Plan0082.php" class="buttton"> Plan 0082</a>
 </div>
 </center>
 

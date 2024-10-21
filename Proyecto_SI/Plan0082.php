@@ -1,4 +1,4 @@
-<title>Plan 2119</title>
+<title>Plan 0082</title>
 
 <?php
     include "./header.php"
@@ -9,6 +9,8 @@
         <button class="tab-btn botonesa" data-target="test1">Formas de titulación</button>
         <button class="tab-btn botonesa" data-target="test2">Requisitos</button>
     </div>
+
+<!--
     <div id="test1" class="col s12 content">
     <center>
     <h1>Formas de titulación</h1>
@@ -35,10 +37,9 @@
             <p>El objetivo y las características que deberá contener la elaboración del 
             trabajo escrito para la mención honorífica son: </p>
 
-            <!-- Modal Trigger -->
             <a class="waves-effect waves-light modal-trigger buttton" href="#modal5">Trabajo escrito</a>
 
-            <!-- Modal Structure -->
+            
             <div id="modal5" class="modal">
                 <div class="modal-content">
                 <h4>Trabajo escrito</h4>
@@ -74,10 +75,10 @@
             <p>esta opción de titulación consistirá en el desarrollo de un trabajo escrito: por la elaboración de material didáctico o la crítica escrita al programa de alguna asignatura o actividad académica del plan
             sde estudios de licenciatura o de bachillerato, o de este en su totalidad. La evaluación y la toma de protesta de esta opción se realizarán conforme a los artículos 20, 22, 23, 26, 27 y 30 de los LITL FES Aragón.</p>
 
-            <!-- Modal Trigger -->
+            
             <a class="waves-effect waves-light modal-trigger buttton" href="#modal6">Material didactico</a>
 
-            <!-- Modal Structure -->
+            
             <div id="modal6" class="modal">
                 <div class="modal-content">
                 <h4>Materia didactico</h4>
@@ -97,10 +98,10 @@
                 </div>
             </div>
 
-            <!-- Modal Trigger -->
+            
             <a class="waves-effect waves-light modal-trigger buttton" href="#modal7">Critica escrita</a>
 
-            <!-- Modal Structure -->
+            
             <div id="modal7" class="modal">
                 <div class="modal-content">
                 <h4>critica escrita</h4>
@@ -141,7 +142,7 @@
 
         <a class="waves-effect waves-light modal-trigger buttton" href="#modal8">Informe escrito</a>
 
-        <!-- Modal Structure -->
+        
         <div id="modal8" class="modal">
             <div class="modal-content">
             <h4>Informe escrito</h4>
@@ -182,10 +183,10 @@
         <p><b>para que el servicio social pueda considerarse una opción de titulación, la persona solicitante deberá entregar una tesina individual sobre las actividades realizadas en dicho servicio.</b></p> 
 
 
-            <!-- Modal Trigger -->
+            
             <a class="waves-effect waves-light modal-trigger buttton" href="#modal9">Tesina</a>
 
-            <!-- Modal Structure -->
+            
             <div id="modal9" class="modal">
                 <div class="modal-content">
                 <h4>Tesina</h4>
@@ -258,6 +259,7 @@
 </div>
     </div>
 
+-->
 
     <div id="test2" class="col s12 content">
     <center>
@@ -382,136 +384,7 @@
 
 
     <li>
-    <div class="collapsible-header"><i class="material-icons">filter_drama</i>Constancia de idioma</div>
-    <div class="collapsible-body"><span>
-    <p>Con el fin de adquirir competencias comunicativas, los Planes de Estudios de cada h establecen los requerimientos específicos del curso o cursos de idioma que serán requisito para la titulación. 
-    Para cumplir con este requisito, únicamente se tomarán en cuenta las constancias de acreditación de idioma emitidas por algún Centro de idiomas o lenguas de la UNAM donde se indique la modalidad: Comprensión de lectura o 4 habilidades.</p>
-    <table border="1">
-        <caption style="background: rgb(196, 212, 218 );">DIVISIÓN DE LAS CIENCIAS FÍSICO MATEMÁTICAS Y DE LAS INGENIERÍAS</caption>
-            <thead>
-            <tr>
-            <th>INGENIERÍA EN COMPUTACIÓN</th>
-            <th>PLAN 1279: INGLÉS </th>
-            <th>UN CURSO DE COMPRENSIÓN DE LECTURA O DE 4 HABILIDADES </th>
-            </tr>
-            </thead>
-        </table>
 
-        <b style="display: block; margin-top: 50px;">Datos que debe integrar la constancia de idioma </b>
-        <div style="margin-left: 50px;">
-        <p><b>•</b> Nombre completo </p>
-        <p><b>•</b> Número de cuenta </p>
-        <p><b>•</b> Carrera  </p>
-        <p><b>•</b> Idioma  </p>
-        <p><b>•</b> Tipo de curso</p>
-        <p><b>•</b> Fecha en que se cursó el idioma y/o periodo </p>
-        <p><b>•</b> Fecha de expedición de la constancia </p>
-        <p><b>•</b> Firma y Sello de la Dependencia de la UNAM  </p>
-        </div>
-
-
-        </span></div>
-    </li>
-
-    <li>
-        <div class="collapsible-header"><i class="material-icons">filter_drama</i>Actividad de formación complementaria</div>
-        <div class="collapsible-body"><span>
-            <p><b style="color: red">Se deberan cumplir al menos de 480 horas de actividades complementarias </b></p>
-            <p>puedan integrarse a alguna actividad que complemente su formación integral como profesionista de la UNAM, esta puede ser en 
-            el ámbito cultural, deportivo, de investigación, de complemento a la formación profesional, de emprendimiento o al servicio de la comunidad, para ello es importante reconocer de manera formal el tiempo y la dedicación que las 
-            y los estudiantes invierten para este propósito, agregando a su formación vivencial que estas actividades generan. </p>
-            <p>Mismas que se pueden llevar a cabo a partir del ingreso como estudiante a la Facultad, sin límite ni vigencia de tiempo para cubrir esta actividad, considerando 
-            que es un requisito para la titulación.</p>
-                <!-- Modal Trigger -->
-    <a class="waves-effect waves-light modal-trigger buttton" href="#modal4">caracteristicas</a>
-
-<!-- Modal Structure -->
-<div id="modal4" class="modal modal-fixed-footer ">
-    <div class="modal-content">
-    <h4><b>Caracteristicas</b></h4>
-    
-    <b style="display: block; margin-top: 50px;"><p>a) Actividades deportivas (responsable de otorgar las horas: Unidad de 
-    Extensión Universitaria de la FES Aragón) </p></b>
-        <div style="margin-left: 50px;">
-        <p><b>•</b> Realización de alguna actividad deportiva </p>
-        <p><b>•</b> Participar u organizar actividades de competencia  </p>
-        <p><b>•</b> Participar en actividades de acondicionamiento físico   </p>      
-        </div>
-
-    <b style="display: block; margin-top: 50px;"><p>b) Actividades culturales (responsable de otorgar las horas: Unidad de Extensión 
-    Universitaria de la FES Aragón)  </p></b>
-        <div style="margin-left: 50px;">
-        <p><b>•</b> Realización de una actividad cultural  </p>
-        <p><b>•</b> Participar u organizar actividades culturales   </p>
-        <p><b>•</b> Participar en algún taller de extensión universitaria    </p>      
-        </div>
-    <p> 
-    <b style="display: block; margin-top: 50px;"><p>c) Investigación (responsable de otorgar las horas: División de Estudios de Posgrado e 
-        Investigación Aragón, Multidisciplinaria Aragón) </p></b>
-        <div style="margin-left: 50px;">
-        <p><b>•</b> Participar en proyectos institucionales de investigación</p>
-        <p><b>•</b> Participar en la publicación de artículos</p>
-        <p><b>•</b> Participar en congresos de investigación</p>      
-    </p>
-    </div>
-
-    <p> 
-    <b style="display: block; margin-top: 50px;"><p>d) Emprendimiento (responsable de otorgar las horas: Centro Tecnológico Aragón)</p></b>
-        <div style="margin-left: 50px;">
-        <p><b>•</b> Promoción de la cultura empresarial</p>
-        <p><b>•</b> Participar en capacitación o en la elaboración de un plan de negocios</p>
-        <p><b>•</b> Participar en talleres para desarrollo del perfil empresarial </p>
-        <p><b>•</b> Participar en proyectos de registro de propiedad intelectual </p>
-        <p><b>•</b> Participar en incubación y desarrollo de empresas</p>
-    </p>
-    </div>
-
-    <p> 
-    <b style="display: block; margin-top: 50px;"><p>e) Actividades de complemento a la formación profesional (responsable de otorgar las 
-    horas: Jefaturas de Carrera de la FES Aragón) </p></b>
-        <div style="margin-left: 50px;">
-        <p><b>•</b> Participar u organizar concursos </p>
-        <p><b>•</b> Participar en grupos de autoaprendizaje (capítulos estudiantiles) </p>
-        <p><b>•</b> Participar en la resolución de problemas específicos </p>
-        <p><b>•</b> Alguna certificación que complemente a la formación profesional </p>
-        <p><b>•</b> Cursos intersemestrales (Que estén aprobados por el Comité de Carrera)</p>
-    </p>
-    </div>
-
-    <p> 
-    <b style="display: block; margin-top: 50px;"><p>f) Servicios a la comunidad (responsable de otorgar las horas: Departamento de 
-    Servicios a la Comunidad y Departamento de Prevención y Seguridad Universitaria)</p></b>
-        <div style="margin-left: 50px;">
-        <p><b>•</b> Participar como promotores de salud </p>
-        <p><b>•</b> Participar en actividades de protección civil </p>
-        <p><b>•</b> Participar en apoyo o asesoría profesional a comunidades </p>      
-    </p>
-    </div>
-
-    <p> 
-    <b style="display: block; margin-top: 50px;"><p>g) Prácticas profesionales (responsable de avalar las horas: Jefaturas de Carrera de la 
-    FES Aragón y puede tener seguimiento con el Departamento de Bolsa de Trabajo)  </p></b>
-        <div style="margin-left: 50px;">
-        <p><b>•</b> En Instituciones de carácter privado  </p>
-        <p><b>•</b> En instituciones de carácter público  </p>
-        <p><b>•</b> En instituciones de carácter educativo  </p>
-        <p><b>•</b> En instituciones de carácter no gubernamental de impacto social </p>
-    </p>
-    </div>
-    
-    </div>
-</div>
-
-    <p>Cada estudiante podrá solicitar la liberación de esta actividad ante su Jefatura de Carrera, cuando en su Cédula de registro y seguimiento de la participación en 
-    Actividades de Formación Complementaria contabilice al menos 480 horas, validadas con sello y firma de los responsables correspondientes de otorgar las horas según la(s) actividad(es). </p>  
-
-    <p><b style="color: red;"> mientras que el alumno cumpla con las 480 horas de formación complementaria puede acomodarlas/completarlas como mejor se le acomode a sus tiempos</b></p>
-
-    <b>Dónde se tramita</b>
-    <p>Cada estudiante abrirá su expediente, en su Jefatura de Carrera, en donde darán seguimiento a su Formación Complementaria. Para mayor información sobre este documento pregunta en tu jefatura de carrera</p>
-        </span></div>
-        
-    </li>
     </ul>
     </div>
     </div>
