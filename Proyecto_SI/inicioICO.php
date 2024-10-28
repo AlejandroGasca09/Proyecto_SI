@@ -31,6 +31,8 @@ Esta Facultad, la cual será tu casa los próximos cuatro años y medio, se sien
         <a href="Plan0082.php" class="buttton"> Plan 0082</a>
 </div>
 </center>
+<br>
+<br>
 
 <?php
 include "./footer.php"

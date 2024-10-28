@@ -109,7 +109,7 @@ footer {
 
 .form_body{
     font-family: Arial,sans-serif;
-    background-color: #0d1117;
+    background-color: white;
     margin: auto;
     padding: 0;
 }
@@ -119,29 +119,30 @@ footer {
     max-width: 400px;
     margin: 20px auto;
     padding: 20px;
-    box-shadow: 0 5px 20px rgba(237, 230, 230, 0.222);
+    border-color: orange;
+    box-shadow: 0 5px 20px orange;
     border: 3px;
 }
 
 label{
     display: block;
     margin-bottom: 5px;
-    color: white;
+    color: black;
 }
 
 .boton_regreso{
     display: inline-block;
     margin-left: 81%;
     margin-top: 5px;
-    background-color: gray;
+    background-color: orange;
     padding: 5px 25px;
     color: aliceblue;
     text-decoration: none;
     border-radius: 100px;
 }
 
-.tinput{
-    color: white;
+.opcion{
+    border-color: black;
 }
 
 .minput{

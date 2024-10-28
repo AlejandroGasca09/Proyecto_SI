@@ -17,7 +17,7 @@
 <body class="form_body">
     
     <header  style="text-align: center;"> 
-        <h1 style="color: white;">Registro de modalidad de Titlación</h1>
+        <h1>Registro de modalidad de Titlación</h1>
     </header>
 
 
@@ -30,30 +30,30 @@
     </div>
             <br>
             <div>
-                <label for="nombre_usuario">Ingresa tu nombre(s): </label>
-                <input type="text" name="nombre_usuario" required maxlength="30" class="tinput" placeholder="ingresa tu nombre(s)">
+                <label for="nombre_completo"><b>Ingresa tu nombre(s):</b></label>
+                <input type="text" name="nombre_completo" required maxlength="30" placeholder="ingresa tu nombre(s)">
             </div>
 
             <div>
-                <label for="apellido_usuario">ingresa tus apellidos</label>
-                <input type="text" name="apellido_usuario" required maxlength="30" class="tinput" placeholder="ingresa tus apellidos">
+                <label for="apellido_com"><b>ingresa tus apellidos</b></label>
+                <input type="text" name="apellido_com" required maxlength="30" placeholder="ingresa tus apellidos">
             </div>
 
             <div>
-                <label for="numero_cuenta">Numero de cuenta</label>
-                <input type="text" name="numero_cuenta" required maxlength="9" class="tinput" placeholder="ingresa tu numero de cuenta"
+                <label for="numero_cuenta"><b>Numero de cuenta</b></label>
+                <input type="text" name="numero_cuenta" required maxlength="9" placeholder="ingresa tu numero de cuenta"
                 oninput="this.value = this.value.replace(/[^0-9]/g, '')">
             </div>
 
             <div>
-                <label for="mail">Ingresa tu correo electronico: </label>
+                <label for="mail"><b>Ingresa tu correo electronico: </b></label>
                 <input type="mail" name="mail" required maxlength="100" class="minput" placeholder="ingresa tu correo">
             </div>
             <br>
 
-            <label>selecciona tu Plan de estudios</label>
+            <label for="Plan" ><h6>selecciona tu Plan de estudios</h6></label>
     <br>
-    <select class="browser-default" style="background-color: gray">
+    <select class="browser-default opcion" name="Plan" style="background-color: orange">
     <option value="" disabled selected>Planes</option>
     <option value="1">1921 </option>
     <option value="2">1272 </option>
@@ -62,9 +62,9 @@
 
             <div class="input-field col s12">
                 <br>
-    <label>selecciona tu modalidad</label>
+    <label for="modalidad"><h6>selecciona tu modalidad</h6></label>
     <br>
-    <select class="browser-default" style="background-color: gray">
+    <select class="browser-default opcion" name="modalidad" style="background-color: orange">
     <option value="" disabled selected>modalidades</option>
     <option value="1">Alto nivel académico </option>
     <option value="2">Créditos de maestría </option>
@@ -78,8 +78,8 @@
     <br>
 
             <div>
-                <label for="mail">telefono: </label>
-                <input type="tel" id="number" name="telefono" required maxlength="10" class="tinput"  placeholder="ingresa tu telefono"
+                <label for="telefono">telefono: </label>
+                <input type="tel" id="number" name="telefono" required maxlength="10"   placeholder="ingresa tu telefono"
                 pattern="\d*" >
             </div>
 
