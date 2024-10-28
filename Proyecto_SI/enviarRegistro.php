@@ -31,7 +31,11 @@ if ($count == 1) {
     $insert_query = "INSERT INTO registro (nombre1, nombre2, apellido1, apellido2, numero_cuenta, mail, Plan, modalidad, telefono) VALUES ('$nombre1', '$nombre2', '$apellido1', '$apellido2', '$numero_cuenta', '$mail', '$Plan', '$modalidad', '$telefono')";
     if (mysqli_query($conexion, $insert_query)) {
         echo "<br><h1>Usuario creado con éxito</h1>";
-        echo "<a href='./registro.php'>Puedes generar un nuevo registro</a>";
+        echo "<a href='./registro.php' style='display: inline-block; margin-top: 25px; margin-inline-start: 59px; background-color: gray; padding: 20px 35px; color: aliceblue; text-decoration: none; border-radius: 100px;'>
+        Puedes generar un nuevo registro</a>";
+        
+        echo "<a href='./index.php' style='display: inline-block; margin-top: 25px; margin-inline-start: 59px; background-color: gray; padding: 20px 35px; color: aliceblue; text-decoration: none; border-radius: 100px;'>
+        regresar al inicio</a>";
     } else {
         echo "Error al insertar el usuario: " . mysqli_error($conexion);
     }
