@@ -55,9 +55,9 @@
     <br>
     <select class="browser-default opcion" name="Plan" style="background-color: orange">
     <option value="" disabled selected>Planes</option>
-    <option value="1">1921 </option>
-    <option value="2">1272 </option>
-    <option value="3">0082 </option>
+    <option value="1921">1921 </option>
+    <option value="1279">1279 </option>
+    <option value="0082">0082 </option>
     </select>
 
             <div class="input-field col s12">
@@ -66,14 +66,22 @@
     <br>
     <select class="browser-default opcion" name="modalidad" style="background-color: orange">
     <option value="" disabled selected>modalidades</option>
-    <option value="1">Alto nivel académico </option>
-    <option value="2">Créditos de maestría </option>
-    <option value="3">Desarrollo de un caso práctico </option>
-    <option value="4">Examen general de conocimientos</option>
-    <option value="5">Informe del ejercicio profesional </option>
-    <option value="6">Memoria de desempeño de Servicio Social  </option>
-    <option value="7">Seminarios y cursos de actualización y capacitación profesional  </option>
-    <option value="8">Tesis </option>
+    <option value="Titulación por totalidad de créditos y alto nivel académico">Titulación por totalidad de créditos y alto nivel académico </option>
+    <option value="actividad de apoyo a la docencia"> actividad de apoyo a la docencia</option>
+    <option value="trabajo profesional">trabajo profesional</option>
+    <option value="Servicio Social-1921">Servicio Social- 1921 </option>
+    <option value="actividad de investigación en su alternativa de artículo académico">actividad de investigación en su alternativa de artículo académico </option>
+    <option value="ampliación y profundización de conocimientos en su alternativa de semestre adicional">ampliación y profundización de conocimientos en su alternativa de semestre adicional </option>
+    <option value="ampliación y profundización de conocimientos en su alternativa de cursos o diplomados de educación continua">ampliación y profundización de conocimientos en su alternativa de cursos o diplomados de educación continua </option>
+    <option value="Tesis">Tesis </option>
+    <option value="Alto nivel académico ">Alto nivel académico </option>
+    <option value="Créditos de maestría ">Créditos de maestría </option>
+    <option value="Desarrollo de un caso práctico">Desarrollo de un caso práctico </option>
+    <option value="Examen general de conocimientos">Examen general de conocimientos</option>
+    <option value="Informe del ejercicio profesional">Informe del ejercicio profesional </option>
+    <option value="Memoria de desempeño de Servicio Social">Memoria de desempeño de Servicio Social  </option>
+    <option value="Seminarios y cursos de actualización y capacitación profesional">Seminarios y cursos de actualización y capacitación profesional  </option>
+
     </select>
     <br>
 

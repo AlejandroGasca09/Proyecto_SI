@@ -1,4 +1,6 @@
-<footer class="page-footer orange lighten-1">
+
+
+<footer class="page-footer orange lighten-1" style=" font-size:11px; margin-top: auto; padding: 3px; text-align: center; line-height: 1.2;">
     <div class="container">
       <div class="row">
         <div class="col l6 s12">

@@ -5,11 +5,14 @@
     background-color: coral;
 }
 
-footer {
-    margin-top: auto;
-    padding: 10px;
-    text-align: center;
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
 }
+
 
 .buttton{
 
@@ -147,4 +150,8 @@ label{
 
 .minput{
     color: black;
+}
+
+.bodysn{
+    background-color: aliceblue;
 }

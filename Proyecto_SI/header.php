@@ -25,6 +25,7 @@
           <li><a href="index.php">Inicio</a></li>
           <li><a href="Planes.php">Nuestra Facultad</a></li>
           <li><a href="inicioICO.php">ICO</a></li>
+          <li><a href="login.php"><i class="material-icons">person</i></a></li>
         </ul>
       </div>
     </nav>

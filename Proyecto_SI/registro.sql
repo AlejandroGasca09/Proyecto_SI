@@ -11,3 +11,10 @@ CREATE TABLE `registro`(
     telefono VARCHAR(10) NOT NULL,
     PRIMARY KEY (id_registro)
 )engine=Innodb default charset=utf8;
+
+CREATE TABLE `administrador`(
+	id_administrador INTEGER NOT NULL AUTO_INCREMENT,
+    nombre_usuario VARCHAR(50) NOT NULL,
+    password VARCHAR(100),
+    PRIMARY KEY (id_administrador)
+)engine=Innodb default charset=utf8;
